@@ -1,0 +1,14 @@
+C:\Users\GIC\source\repos\MSMQ\MSMQSender\obj\Debug\MSMQSender.csproj.CoreCompileInputs.cache
+C:\Users\GIC\source\repos\MSMQ\MSMQSender\bin\Debug\MSMQSender.exe.config
+C:\Users\GIC\source\repos\MSMQ\MSMQSender\bin\Debug\MSMQSender.exe
+C:\Users\GIC\source\repos\MSMQ\MSMQSender\bin\Debug\MSMQSender.pdb
+C:\Users\GIC\source\repos\MSMQ\MSMQSender\obj\Debug\MSMQSender.exe
+C:\Users\GIC\source\repos\MSMQ\MSMQSender\obj\Debug\MSMQSender.pdb
+C:\Users\GIC\source\repos\MSMQ\MSMQSender\obj\Debug\MSMQSender.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\MSMQ\MSMQSender\bin\Debug\MSMQSender.exe.config
+C:\Users\admin\Downloads\MSMQ\MSMQSender\bin\Debug\MSMQSender.exe
+C:\Users\admin\Downloads\MSMQ\MSMQSender\bin\Debug\MSMQSender.pdb
+C:\Users\admin\Downloads\MSMQ\MSMQSender\obj\Debug\MSMQSender.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\MSMQ\MSMQSender\obj\Debug\MSMQSender.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\MSMQ\MSMQSender\obj\Debug\MSMQSender.exe
+C:\Users\admin\Downloads\MSMQ\MSMQSender\obj\Debug\MSMQSender.pdb
